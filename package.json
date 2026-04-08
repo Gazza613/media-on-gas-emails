@@ -1,0 +1,11 @@
+{
+  "name": "media-on-gas-auto",
+  "version": "1.0.0",
+  "description": "MEDIA ON GAS - Automated daily campaign reporting",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
